@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dc6553a.css",
+    "main.js": "/static/js/main.506dc5e6.js",
+    "static/media/imgBrasilia.jpg": "/static/media/imgBrasilia.1a332148182efde9159e.jpg",
+    "static/media/imgRioDeJaneiro.jpg": "/static/media/imgRioDeJaneiro.724dac9006b5d96c3a39.jpg",
+    "static/media/imgMaceio.jpg": "/static/media/imgMaceio.7a82de63bd4fb41d1627.jpg",
+    "static/media/imgAviao.jpg": "/static/media/imgAviao.36f1ef5b88debd308019.jpg",
+    "static/media/imgPernambuco.jpg": "/static/media/imgPernambuco.4eb4bffea8cc5946a494.jpg",
+    "static/media/imgFortaleza.jpg": "/static/media/imgFortaleza.2925eeb4e9c76cd2174a.jpg",
+    "static/media/imgSaoPaulo.jpg": "/static/media/imgSaoPaulo.17303f98aaf6f279765b.jpg",
+    "index.html": "/index.html",
+    "main.6dc6553a.css.map": "/static/css/main.6dc6553a.css.map",
+    "main.506dc5e6.js.map": "/static/js/main.506dc5e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dc6553a.css",
+    "static/js/main.506dc5e6.js"
+  ]
+}

@@ -1,0 +1,19 @@
+img{
+    width: 100%;
+}
+.caixa_info{
+    color:white;
+    display: flex;
+}
+.info_text{
+    color: white;
+    margin-left: 10px;
+    display: inline;
+}
+.caixa_btn{
+    margin-top: 15px;
+    display: flex;
+}
+.botao{
+    text-align: center;
+}
